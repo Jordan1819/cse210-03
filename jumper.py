@@ -2,7 +2,7 @@ import random
 
 class Jumper:
   """
-  The responsability of Jumper is to keep track of the random word that the jumper will be using and to keep track of how many guesses they have left
+  The responsibility of Jumper is to keep track of the random word that the jumper will be using and to keep track of how many guesses they have left
   """
   
   def __init__(self):
